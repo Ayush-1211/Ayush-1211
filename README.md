@@ -23,7 +23,3 @@
     - Javascript
     - PHP
  
-- 🖊️ Learning: 
-    - ReactJs
-    - NodeJs
-    - AWS 
