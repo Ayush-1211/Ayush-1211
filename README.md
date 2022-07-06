@@ -17,7 +17,7 @@
     - LeetCode: [Ayush_1211](https://leetcode.com/Ayush_1211/)
 
 - 🏅 Badges:
-<img src="images/microsoft-certified-azure-fundamentals.png">
+<img src="images/microsoft-certified-azure-fundamentals.png" height=200px width=200px>
     
 - 💻 Skills: 
     - Java
