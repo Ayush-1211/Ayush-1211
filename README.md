@@ -15,6 +15,9 @@
 - 🚪 Checkout my Competitive Programming profiles:
     - HackerRank: [Ayush_1211](https://www.hackerrank.com/Ayush_1211)
     - LeetCode: [Ayush_1211](https://leetcode.com/Ayush_1211/)
+
+- 🏅 Badges:
+<img src="images/microsoft-certified-azure-fundamentals.png">
     
 - 💻 Skills: 
     - Java
