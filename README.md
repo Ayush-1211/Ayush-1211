@@ -8,7 +8,7 @@
         
     - Bachelor's of Engineering in Information Technology (BE - IT)
         - Aditya Silver oak Institue of Technology (2018 - 2022)
-        - Scored 9.40/10 CGPA
+        - CGPA: 9.40/10
 
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/ayush-prajapati-b51bbb166/
@@ -28,9 +28,10 @@
 ![30 Days of Code](images/30-Days-of-Code.png)
     
 - 💻 Skills: 
+    - React.js
+    - JavaScript
     - Java
     - Python
     - Machine Learning
-    - Javascript
     - PHP
  
