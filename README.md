@@ -4,10 +4,10 @@
 
 - 🏫 Education:
     - Master of Applied Computing
-        - University of Windsor (2022 - Present)
+        - University of Windsor (Sept 2022 - Dec 2023)
         
     - Bachelor's of Engineering in Information Technology (BE - IT)
-        - Aditya Silver oak Institue of Technology (2018 - 2022)
+        - Aditya Silver oak Institue of Technology (Aug 2018 - May 2022)
         - CGPA: 9.40/10
 
 - 📫 How to reach me:
