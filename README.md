@@ -3,11 +3,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush-1211&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 🏫 Education:
-    - Master of Applied Computing
+    - Master of Applied Computing, Computer Science
         - University of Windsor (Sept 2022 - Dec 2023)
         
-    - Bachelor's of Engineering in Information Technology (BE - IT)
-        - Aditya Silver oak Institue of Technology (Aug 2018 - May 2022)
+    - Bachelor of Engineering in Information Technology (BE - IT)
+        - Aditya Silver Oak Institue of Technology (Aug 2018 - May 2022)
         - CGPA: 9.40/10
 
 - 📫 How to reach me:
