@@ -12,7 +12,6 @@
 
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/ayush-prajapati-b51bbb166/
-    - Portfolio: https://ayush-1211.github.io/ayush-portfolio/
     - Twitter: [@iayush_1211](https://twitter.com/iayush_1211?t=_qXJ2Vm5xcqpsmEO0Avdpg&s=09)
     - YouTube: [Ayush Prajapati](https://www.youtube.com/channel/UCUFXCEnX8Mhq_EEbYTWIJxQ/featured)
  
