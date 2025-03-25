@@ -26,11 +26,15 @@
 ![Java Gold Badge](images/Java-Gold-Badge.png)
 ![30 Days of Code](images/30-Days-of-Code.png)
     
-- 💻 Skills: 
+- 💻 Skills:
+    - Python
+    - R
+    - SQL
+    - Power BI
+    - Tableau
+    - Machine Learning
     - React.js
     - JavaScript
     - Java
-    - Python
-    - Machine Learning
     - PHP
  
