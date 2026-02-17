@@ -9,11 +9,6 @@
     - Bachelor of Engineering in Information Technology (BE - IT)
         - Aditya Silver Oak Institue of Technology (Aug 2018 - May 2022)
         - CGPA: 9.40/10
-
-- 📫 How to reach me:
-    - LinkedIn: https://www.linkedin.com/in/ayush-prajapati-b51bbb166/
-    - Twitter: [@iayush_1211](https://twitter.com/iayush_1211?t=_qXJ2Vm5xcqpsmEO0Avdpg&s=09)
-    - YouTube: [Ayush Prajapati](https://www.youtube.com/channel/UCUFXCEnX8Mhq_EEbYTWIJxQ/featured)
  
 - 🚪 Checkout my Competitive Programming profiles:
     - HackerRank: [Ayush_1211](https://www.hackerrank.com/Ayush_1211)
